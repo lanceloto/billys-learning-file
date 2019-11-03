@@ -1,0 +1,27 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("images/6102472_4127277.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+img {
+    border: 15px groove orangered;
+border-radius: 100%;
+;
+
+.gregtwo {
+    border: 15px dashed orangered;
+}
+
+.gregfour {
+    border: 15px dotted orangered;
+}
+
+.gregthree {
+    border: 15px double orangered;
+}
