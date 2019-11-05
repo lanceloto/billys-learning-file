@@ -2,16 +2,15 @@ div {
     width: 200px;
     height: 200px;
     border: 1px solid red;
-    border-radius: 100%;
-    background-image: url("images/6102472_4127277.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-
+    border-radius: 10px;
+    display: inline-block;
 }
 
 img {
     border: 15px groove orangered;
-    border-radius: 100%;
+    border-radius: 100%
+    padding: 50px;
+    margin: 40px;
 }
 
 .gregtwo {
